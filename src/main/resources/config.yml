@@ -1,0 +1,10 @@
+Prefix: "&aGruppenSystem &7» "
+DefaultGroup:
+  Name: "Spieler"
+  Prefix: "Spieler"
+MySQL:
+  Host: "localhost"
+  Port: "3306"
+  Database: "gruppensystem"
+  User: "root"
+  Password: ""

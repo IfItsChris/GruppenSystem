@@ -1,0 +1,9 @@
+name: GruppenSystem
+version: '${project.version}'
+main: de.whoischris.gruppensystem.GruppenSystem
+api-version: 1.19
+authors: [ whoischris ]
+description: Bewerbungsaufgabe GruppenSystem für PlayLegend.NET
+
+commands:
+  group:
